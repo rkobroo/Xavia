@@ -2,8 +2,8 @@
 	"Language": "en",
 	"PreKey": "",
 	"AutoUpdate": true,
-	"MainColor": "#00FFFF",
-	"MainName": "[ MrTomXxX ]",
+	"MainColor": "#FFA500",
+	"MainName": "[ ArunKumar ]",
 	"Uptime": true,
 	"Login2Fa": false,
 	"AutoLogin": false,
@@ -14,7 +14,8 @@
 	"AutoRestartMinutes": 0,
 	"HTML": {
 		"HTML": false,
-		"UserName": "MrTomXxX",
+		"UserName": "MirryKal",
 		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
-	}
+	},
+	"Config": "default"
 }
